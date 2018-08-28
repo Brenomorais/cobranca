@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>cobranca</name>
-	<description>Sistema De Cobrança</description>
+	<description>Sistema de Controle Cobrança</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
